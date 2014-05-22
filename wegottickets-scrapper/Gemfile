@@ -1,0 +1,8 @@
+ruby '2.1.0'
+
+gem 'nokogiri'
+gem 'rest-client'
+gem 'json'
+
+gem 'pry'
+gem 'pry-nav'
