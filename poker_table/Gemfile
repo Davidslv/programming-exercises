@@ -1,0 +1,9 @@
+ruby '2.1.0'
+
+gem 'rspec'
+gem 'simplecov'
+
+group :test do
+  gem 'pry'
+  gem 'pry-nav'
+end
